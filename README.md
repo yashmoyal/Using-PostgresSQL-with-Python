@@ -2,6 +2,7 @@
 
 ## As a data Engineer, Sometimes you have to work with SQL using Python that is instead of using SQL through its SQL-SHELL or UI.
 ## So, this project tells you how to work with SQL using python programming language.
+## In this Project we will be adding our data to PostgresSQL using Python. Basically three tables in the target Database.
 ### **************************************************************************************************************
 # Let's go through the steps and the tools required to make this project
 # Tools Used: 
